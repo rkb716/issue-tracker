@@ -1,0 +1,26 @@
+{
+	"name": "Issue Tracker",
+	"version": "0.0.1",
+	"description": "A fullstack application for tracking and managing software issues.",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"body-parser": "^1.15.2",
+		"cors": "^2.8.1",
+		"dotenv": "^8.2.0",
+		"express": "^4.14.0",
+		"helmet": "^3.1.0",
+		"mongodb": "^2.2.36",
+		"mongoose": "^5.9.15"
+	},
+	"engines": {
+		"node": "4.4.3"
+	},
+	"keywords": [
+		"node",
+		"express"
+	],
+	"license": "MIT"
+}
