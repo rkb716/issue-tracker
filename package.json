@@ -1,5 +1,5 @@
 {
-	"name": "Issue Tracker",
+	"name": "issue-tracker",
 	"version": "0.0.1",
 	"description": "A fullstack application for tracking and managing software issues.",
 	"main": "server.js",
